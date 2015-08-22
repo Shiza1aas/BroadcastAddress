@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Broadcast Address</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ip_address">IP Address</string>
+    <string name="subnet_mask">Subnet Mask</string>
+    <string name="broadcast_address">Broadcast Address</string>
+</resources>
